@@ -1,4 +1,4 @@
-# Todo App
+# Task Manager App
 
 A simple task manager built with React. Create tasks with a title, due date, and description — mark them done when you're finished.
 
